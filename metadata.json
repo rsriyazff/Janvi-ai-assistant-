@@ -1,0 +1,9 @@
+{
+  "name": "Janvi Voice Assistant",
+  "description": "A real-time, voice-to-voice AI assistant web app with a sassy personality using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
